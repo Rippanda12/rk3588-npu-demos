@@ -3,7 +3,7 @@
 ### Install dependences
 
 ```sh
-$ sudo apt install cmake
+sudo apt install cmake
 ```
 
 ### Docs
@@ -15,8 +15,8 @@ For how to use the API interface, please refer to the documentation under the do
 Take yolov5 as an example, other demos are similar.
 
 ```sh
-$ cd yolov5
-$ ./build.sh
+cd yolov5
+./build.sh
 ```
 
 Compilation will generate the install folder.
