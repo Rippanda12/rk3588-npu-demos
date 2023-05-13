@@ -1,4 +1,4 @@
-#RK3588 NPU Demos
+# RK3588 NPU Demos
 
 This repository contains demos for using the RKNPU (Rockchip NPU) with the RK3588 platform.
 
